@@ -1,2 +1,3 @@
-# dio-desafio-github-primeiro-repositorio
-Repositorio criado para o desafio de Projeto sobre Git/Github
+# Desafio de Projeto sobre Git/Github
+Repositorio criado para o primeiro desafio de projeto sobre Git/Github em Junho 2022
+
