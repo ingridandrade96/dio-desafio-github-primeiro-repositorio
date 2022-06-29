@@ -1,0 +1,13 @@
+Sintaxes Uteis
+-git init
+-git config  --global user.email ""
+-git config --global user.name
+-git add
+-git add *
+-git commit -m
+-ls
+-git status
+-git push origin main
+-git pull origin main
+-git clone <url>
+-git remote -v
